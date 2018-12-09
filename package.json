@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-calendar",
+  "name": "cordova-plugin-calendar-custom-chezrd",
   "version": "5.1.3",
   "description": "This plugin allows you to manipulate the native calendar.",
   "cordova": {
-    "id": "cordova-plugin-calendar",
+    "id": "cordova-plugin-calendar-custom-chezrd",
     "platforms": [
       "ios",
       "android"
